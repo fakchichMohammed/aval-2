@@ -1,0 +1,19 @@
+{
+  "depenses": [
+    {
+      "name": "testFFFF",
+      "price": "22",
+      "id": 2
+    },
+    {
+      "name": "ADDDDD",
+      "price": "34",
+      "id": 3
+    },
+    {
+      "name": "TESDSD",
+      "price": "-12",
+      "id": 4
+    }
+  ]
+}
